@@ -1,0 +1,51 @@
+Anthony Luong 2nd Period 10/18/17
+UNO Psuedocode
+
+The first player in the sequence will play any card they want:
+If the first card played is a Wild Draw 4:
+	end the players turn, change the corresponding color and make the next player draw 4 cards from the deck.
+If the first card played is a Reverse:
+	then the order of players will change from clockwise of the original player to counter-clockwise.
+If the first card played is a Skip:
+	skip the turn of the next player in the sequence of turns.
+If the first card played is a Draw 2:
+	skip the turn of the next player and make them draw 2 cards from the deck.
+If the first card played is a Wild Card:
+	change the color of the card that players must put down unless they have a Wild Draw 4, a Draw 2, or a Wild Card.
+After the first card is played: 
+	end the first players turn and move on to the next player in the sequence.
+If the first card played is a Wild Draw 4:
+	end the players turn, change the corresponding color and make the next player draw 4 cards from the deck.
+If the next card played is a Reverse:
+	then the order of players will change from clockwise of the original player to counter-clockwise.
+If the next card played is a Skip:
+	skip the turn of the next player in the sequence of turns.
+If the next card played is a Draw 2:
+	skip the turn of the next player and make them draw 2 cards from the deck.
+If the next card played is a Wild Card:
+	change the color of the card that players must put down unless they have a Wild Draw 4, a Draw 2, or a Wild Card.
+If the player does not have a card available to play for the corresponding color or number:
+	they must draw from the deck and see if they got a corresponding card
+If that player got a corresponding card with that color, number, or any card with the ability to change the color of the sequence:
+	they can choose to play that card and end their turn.
+If that player did not get a corresponding card with that color, number, or any card with the ability to change the color of the sequence:
+	they must keep the card they picked up from the deck, end their turn, and move on to the next players turn in the sequence of players.
+If the next card played is a Reverse:
+	then the order of players will change from clockwise of the original player to counter-clockwise.
+If the next card played is a Skip:
+	skip the turn of the next player in the sequence of turns.
+If the next card played is a Draw 2:
+	skip the turn of the next player and make them draw 2 cards from the deck.
+If the next card played is a Wild Card:
+	change the color of the card that players must put down unless they have a Wild Draw 4, a Draw 2, or a Wild Card.
+If the player does not have a card available to play for the corresponding color or number:
+	they must draw from the deck and see if they got a corresponding card
+If that player got a corresponding card with that color, number, or any card with the ability to change the color of the sequence:
+	they can choose to play that card and end their turn.
+If that player did not get a corresponding card with that color, number, or any card with the ability to change the color of the sequence:
+	they must keep the card they picked up from the deck, end their turn, and move on to the next players turn in the sequence of players.
+While the win condition is not yet met:
+	play until someone loses all of the cards in their hand.
+
+
+

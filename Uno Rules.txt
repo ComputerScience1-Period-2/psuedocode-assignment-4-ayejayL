@@ -1,0 +1,16 @@
+Anthony Luong 2nd Period 10/18/17
+UNO Instructions
+
+Acquire a deck of UNO cards
+Start off with 7 cards for each player (2 - 10 Players)
+Multiple types of cards - Wild Card ( Changes the color of the current cycle)
+- Wild Draw 4 ( Changes the color of the current cycle and makes the next player draw 4 cards) 
+- Skip ( Skips the next player's turn and goes to the player after them)
+- Reverse ( Switches order of players and goes back to previous player's turn)
+- Draw 2 ( Makes the next player draw 2 cards from the deck and skips their turn)
+
+The first player to get rid of all of the cards from their hand before anyone else will win.
+The order of players goes in the clockwise direction unless a reverse card is played
+A Player must call "Uno" when playing their next-to-last card as a warning to other players
+If that player does NOT call "Uno" and is caught before the next player plays their card, they one who did not call "Uno" must draw 2 cards from the deck
+If someone plays a "Draw 2" or a "Wild Draw 4" card, the next player can avoid picking X amount of cards by playing their own "Draw 2" or "Wild Draw 4" 
